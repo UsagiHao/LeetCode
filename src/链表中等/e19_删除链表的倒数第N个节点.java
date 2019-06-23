@@ -1,4 +1,4 @@
-package 链表简单;
+package 链表中等;
 
 public class e19_删除链表的倒数第N个节点 {
 /*
